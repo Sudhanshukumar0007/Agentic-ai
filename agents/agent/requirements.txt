@@ -1,0 +1,7 @@
+langchain-ollama
+langchain-community
+langchain-chroma
+langchain-core
+langgraph
+pypdf
+streamlit

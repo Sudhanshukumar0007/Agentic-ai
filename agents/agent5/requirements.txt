@@ -1,0 +1,7 @@
+langchain-core
+langchain-openrouter
+langchain
+python-dotenv
+streamlit
+requests
+edge-tts
