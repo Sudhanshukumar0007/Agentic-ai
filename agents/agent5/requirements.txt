@@ -1,6 +1,6 @@
-langchain-core
+langchain-core<0.3.0
 langchain-openrouter
-langchain
+langchain<0.3.0
 python-dotenv
 streamlit
 requests

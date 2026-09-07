@@ -1,7 +1,7 @@
 langchain-ollama
-langchain-community
+langchain-community<0.3.0
 langchain-chroma
-langchain-core
+langchain-core<0.3.0
 langgraph
 pypdf
 streamlit

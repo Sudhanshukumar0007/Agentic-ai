@@ -1,6 +1,6 @@
-langchain
-langchain-openai
-langchain-community
+langchain<0.3.0
+langchain-openai<0.3.0
+langchain-community<0.3.0
 wikipedia
 python-dotenv
 xmltodict
