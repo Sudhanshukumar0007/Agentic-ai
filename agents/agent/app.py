@@ -47,12 +47,12 @@ def init_agent():
         return "\n".join(doc.page_content for doc in results)
         
     system_prompt = SystemMessage(
-        content=\"\"\"
+        content="""
 You are an AI Hospital Assistant.
 Answer using the hospital knowledge base.
 Do not diagnose or recommend medical treatment.
 If the answer is not found, say you don't know.
-\"\"\"
+"""
     )
     
     memory = InMemorySaver()
